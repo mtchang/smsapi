@@ -11,7 +11,7 @@ git clone https://github.com/mtchang/smsapi.git
 $userid="帳號";	
 $password="密碼";	
 //接收人之手機號碼。格式為: +886912345678或09123456789。多筆 0912345678,0922333444
-$mobile = "0926xxxxxx";	
+$mobile = "09xxxxxxxx";	
 ```
 
 * 使用 PHP 執行程式
@@ -37,6 +37,6 @@ array(5) {
 }
 ```
 
-* 其餘不足的地方，請看官方網站說明。
+* 其餘不足的地方，請看官方網站文件說明。http://tw.every8d.com/api20/doc/EVERY8D%20HTTP%20API%E6%96%87%E4%BB%B6-v2%201-https.pdf
 
 
