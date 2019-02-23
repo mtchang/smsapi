@@ -1,7 +1,8 @@
 ## 改寫 EVERY8D 簡訊發送的SAMPLE CODE
 
 * 到 EVERY8D 申請簡訊系統測試帳號 https://tw.every8d.com/
-*抓取程式碼
+
+* 抓取程式碼
 ```
 git clone https://github.com/mtchang/smsapi.git
 ```
